@@ -54,11 +54,20 @@ function ISP_ValidCheck(para) {
 }
 
 function Area_check(para) {
-  if (para == '中华民国') {
+  if (para == '中华民国' || para == '中華民國') {
     return '台湾';
   } else {
     return para;
   }
+}
+
+function Title_check(para) {
+  var city = City_ValidCheck(para['city']);
+  var country = Area_check(para['country']);
+  if (city == country) {
+    return city;
+  }
+  return country + '·' + city;
 }
 
 var flags = new Map([
@@ -183,7 +192,8 @@ var flags = new Map([
 
 var body = $response.body;
 var obj = JSON.parse(body);
-var title = flags.get(obj['countryCode']) + ' ' + Area_check(obj['country']) + '·' + City_ValidCheck(obj['city']); //+Area_check(obj['country']);
+
+var title = flags.get(obj['countryCode']) + ' ' + Title_check(obj);
 var subtitle = ISP_ValidCheck(obj['org']);
 var ip = obj['query'];
 var description =
