@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,aex.com,PROXY
 DOMAIN-SUFFIX,bibox.com,PROXY
 DOMAIN-SUFFIX,binance.cc,PROXY
 DOMAIN-SUFFIX,binance.com,PROXY
+DOMAIN-SUFFIX,binance.org,PROXY
 DOMAIN-SUFFIX,binance.us,PROXY
 DOMAIN-SUFFIX,binance.cloud,PROXY
 DOMAIN-SUFFIX,bitcointalk.org,PROXY
@@ -46,6 +47,12 @@ DOMAIN-SUFFIX,bitrue.org,PROXY
 DOMAIN-SUFFIX,tronlink.org,PROXY
 DOMAIN-SUFFIX,hotbit.mobi,PROXY
 DOMAIN-SUFFIX,hotbitcn.com,PROXY
+DOMAIN-SUFFIX,metamask.io,PROXY
+DOMAIN-SUFFIX,dex.guru,PROXY
+DOMAIN-SUFFIX,coinsbit.io,PROXY
+DOMAIN-SUFFIX,dextools.io,PROXY
+DOMAIN-SUFFIX,justswap.io,PROXY
+DOMAIN-SUFFIX,winnfthorse.io,PROXY
 
 # > Discord
 DOMAIN-SUFFIX,discord.com,PROXY
