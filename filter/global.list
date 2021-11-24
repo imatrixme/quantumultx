@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,binance.org,PROXY
 DOMAIN-SUFFIX,binance.us,PROXY
 DOMAIN-SUFFIX,binance.cloud,PROXY
 DOMAIN-SUFFIX,bnbstatic.com,PROXY
+DOMAIN-SUFFIX,nftstatic.com,PROXY
 DOMAIN-SUFFIX,bitcointalk.org,PROXY
 DOMAIN-SUFFIX,bitfinex.com,PROXY
 DOMAIN-SUFFIX,bithumb.com,PROXY
