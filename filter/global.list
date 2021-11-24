@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,zb.com,PROXY
 DOMAIN-SUFFIX,bitrue.com,PROXY
 DOMAIN-SUFFIX,bitrue.org,PROXY
 DOMAIN-SUFFIX,tronlink.org,PROXY
+DOMAIN-SUFFIX,hotbit.mobi,PROXY
+DOMAIN-SUFFIX,hotbitcn.com,PROXY
+
 # > Discord
 DOMAIN-SUFFIX,discord.com,PROXY
 DOMAIN-SUFFIX,discordapp.com,PROXY
