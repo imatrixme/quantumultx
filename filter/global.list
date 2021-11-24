@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,binance.com,PROXY
 DOMAIN-SUFFIX,binance.org,PROXY
 DOMAIN-SUFFIX,binance.us,PROXY
 DOMAIN-SUFFIX,binance.cloud,PROXY
+DOMAIN-SUFFIX,bnbstatic.com,PROXY
 DOMAIN-SUFFIX,bitcointalk.org,PROXY
 DOMAIN-SUFFIX,bitfinex.com,PROXY
 DOMAIN-SUFFIX,bithumb.com,PROXY
@@ -595,6 +596,7 @@ DOMAIN,apple.comscoreresearch.com,PROXY
 # Google
 DOMAIN-SUFFIX,go.dev,PROXY
 DOMAIN-SUFFIX,golang.org,PROXY
+DOMAIN-SUFFIX,recaptcha.net,PROXY
 # > Others
 DOMAIN-SUFFIX,aicoin.com,PROXY
 DOMAIN-SUFFIX,aimoon.com,PROXY
