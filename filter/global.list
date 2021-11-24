@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,bibox.com,PROXY
 DOMAIN-SUFFIX,binance.cc,PROXY
 DOMAIN-SUFFIX,binance.com,PROXY
 DOMAIN-SUFFIX,binance.us,PROXY
+DOMAIN-SUFFIX,binance.cloud,PROXY
 DOMAIN-SUFFIX,bitcointalk.org,PROXY
 DOMAIN-SUFFIX,bitfinex.com,PROXY
 DOMAIN-SUFFIX,bithumb.com,PROXY
