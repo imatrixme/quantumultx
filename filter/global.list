@@ -629,3 +629,23 @@ DOMAIN-SUFFIX,metapix.net,PROXY
 DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN,international-gfe.download.nvidia.com,PROXY
+
+# > nintendo
+DOMAIN-SUFFIX,nintendo.be,PROXY
+DOMAIN-SUFFIX,nintendo.co.jp,PROXY
+DOMAIN-SUFFIX,nintendo.co.uk,PROXY
+DOMAIN-SUFFIX,nintendo.com,PROXY
+DOMAIN-SUFFIX,nintendo.com.au,PROXY
+DOMAIN-SUFFIX,nintendo.de,PROXY
+DOMAIN-SUFFIX,nintendo.es,PROXY
+DOMAIN-SUFFIX,nintendo.eu,PROXY
+DOMAIN-SUFFIX,nintendo.fr,PROXY
+DOMAIN-SUFFIX,nintendo.it,PROXY
+DOMAIN-SUFFIX,nintendo.jp,PROXY
+DOMAIN-SUFFIX,nintendo.net,PROXY
+DOMAIN-SUFFIX,nintendo.nl,PROXY
+DOMAIN-SUFFIX,nintendowifi.net,PROXY
+
+# > battlenet
+DOMAIN-SUFFIX,battle.net,PROXY
+DOMAIN-SUFFIX,blizzard.com,PROXY
