@@ -611,3 +611,6 @@ DOMAIN-SUFFIX,nintendowifi.net,PROXY
 # > battlenet
 DOMAIN-SUFFIX,battle.net,PROXY
 DOMAIN-SUFFIX,blizzard.com,PROXY
+
+# > Misc
+DOMAIN-SUFFIX,asiacomics.com,PROXY
