@@ -5,11 +5,11 @@ DOMAIN,d3c33hcgiwev3.cloudfront.net,PROXY
 DOMAIN,payments-jp.amazon.com,PROXY
 DOMAIN,s3-ap-northeast-1.amazonaws.com,PROXY
 DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
+
 # > Akamai
 DOMAIN,a248.e.akamai.net,PROXY
 DOMAIN,a771.dscq.akamai.net,PROXY
-# > Apple
-DOMAIN,testflight.apple.com,PROXY
+
 # > Crypto
 DOMAIN-SUFFIX,aex.com,PROXY
 DOMAIN-SUFFIX,bibox.com,PROXY
@@ -579,6 +579,8 @@ DOMAIN,appleid.apple.com,PROXY
 DOMAIN,developer.apple.com,PROXY
 DOMAIN,www.icloud.com,PROXY
 DOMAIN,ocsp.apple.com,PROXY
+DOMAIN,testflight.apple.com,PROXY
+
 # > DigiCert
 DOMAIN,cacerts.digicert.com,PROXY
 DOMAIN,crl3.digicert.com,PROXY
@@ -614,3 +616,4 @@ DOMAIN-SUFFIX,blizzard.com,PROXY
 
 # > Misc
 DOMAIN-SUFFIX,asiacomics.com,PROXY
+DOMAIN-SUFFIX,thepiratebay.org,PROXY
