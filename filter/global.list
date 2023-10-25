@@ -614,6 +614,9 @@ DOMAIN-SUFFIX,nintendowifi.net,PROXY
 DOMAIN-SUFFIX,battle.net,PROXY
 DOMAIN-SUFFIX,blizzard.com,PROXY
 
+# > openai
+DOMAIN-SUFFIX,openai.com,PROXY
+
 # > Misc
 DOMAIN-SUFFIX,asiacomics.com,PROXY
 DOMAIN-SUFFIX,thepiratebay.org,PROXY
